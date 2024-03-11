@@ -6,6 +6,7 @@
     border-radius: 12px;
     /*background-image: linear-gradient(180deg, #09032c 0%, #09013a 100%);*/
     background-image: url(../Assets/back.jpg) ;
+    background-size: cover;
 }
 .top-bar{
     display:flex;
